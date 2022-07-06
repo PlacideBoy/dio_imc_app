@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IMC!</string>
+    <string name="calcularBTN">Calcular</string>
+    <string name="altura_hint_EDT">Altura (ex: 1.75 m)</string>
+    <string name="peso_hint_EDT">Peso (ex: 75.5 kg)</string>
+    <string name="imc_TV">IMC</string>
+</resources>
